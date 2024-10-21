@@ -1,0 +1,14 @@
+G:\3kyrs\1sem\c#lab\BridgePattern\bin\Debug\net8.0\BridgePattern.exe
+G:\3kyrs\1sem\c#lab\BridgePattern\bin\Debug\net8.0\BridgePattern.deps.json
+G:\3kyrs\1sem\c#lab\BridgePattern\bin\Debug\net8.0\BridgePattern.runtimeconfig.json
+G:\3kyrs\1sem\c#lab\BridgePattern\bin\Debug\net8.0\BridgePattern.dll
+G:\3kyrs\1sem\c#lab\BridgePattern\bin\Debug\net8.0\BridgePattern.pdb
+G:\3kyrs\1sem\c#lab\BridgePattern\obj\Debug\net8.0\BridgePattern.GeneratedMSBuildEditorConfig.editorconfig
+G:\3kyrs\1sem\c#lab\BridgePattern\obj\Debug\net8.0\BridgePattern.AssemblyInfoInputs.cache
+G:\3kyrs\1sem\c#lab\BridgePattern\obj\Debug\net8.0\BridgePattern.AssemblyInfo.cs
+G:\3kyrs\1sem\c#lab\BridgePattern\obj\Debug\net8.0\BridgePattern.csproj.CoreCompileInputs.cache
+G:\3kyrs\1sem\c#lab\BridgePattern\obj\Debug\net8.0\BridgePattern.dll
+G:\3kyrs\1sem\c#lab\BridgePattern\obj\Debug\net8.0\refint\BridgePattern.dll
+G:\3kyrs\1sem\c#lab\BridgePattern\obj\Debug\net8.0\BridgePattern.pdb
+G:\3kyrs\1sem\c#lab\BridgePattern\obj\Debug\net8.0\BridgePattern.genruntimeconfig.cache
+G:\3kyrs\1sem\c#lab\BridgePattern\obj\Debug\net8.0\ref\BridgePattern.dll
